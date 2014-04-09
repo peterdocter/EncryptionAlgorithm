@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1397014085 source:h:\encryption\encryptionalgorithm\encryptionalgorithm\main.c
+	<stdio.h>
+	"des.h"
+
+1396965860 source:h:\encryption\encryptionalgorithm\encryptionalgorithm\des.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"des.h"
+	"des_tables.h"
+
+1396965861 h:\encryption\encryptionalgorithm\encryptionalgorithm\des.h
+
+1396959658 h:\encryption\encryptionalgorithm\encryptionalgorithm\des_tables.h
+
+1397014284 source:h:\encryption\encryptionalgorithm\encryptionalgorithm\aes.c
+	<string.h>
+	<stdlib.h>
+	"aes_tables.h"
+	"aes.h"
+
+1397009433 h:\encryption\encryptionalgorithm\encryptionalgorithm\aes_tables.h
+	"aes.h"
+
+1397013829 h:\encryption\encryptionalgorithm\encryptionalgorithm\aes.h
+
