@@ -8,6 +8,7 @@ IDE：Code::Blocks
 
 * DES(Done)
 * AES(Done)
+* Base64(Done)
 * 3DES
 * RC3
 * RSA
